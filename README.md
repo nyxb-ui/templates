@@ -1,32 +1,56 @@
-# 🪄 Nyxb Starter Templates
+<div align="center">
+<img alt="Portfolio" src="https://github.com/dillionverma/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
+</div>
 
-Quickly get started with a minimal Nyxb starter template!
+# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
 
-## Quick start
+Built with next.js, [Nyxb UI](https://nyxbui.design), deployed on Vercel.
 
-Head over to [nyxb.space](https://nyxb.space) to get started quickly.
+# Features
 
-## Usage
+-  Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
+-  Built using Next.js 14, React, Typescript, Nyxb UI, TailwindCSS, Framer Motion
+-  Includes a blog
+-  Responsive for different devices
+-  Optimized for Next.js and Vercel
+-
 
-You can use `nyxbi` CLI to clone latest template to an empty directory:
+# Easiest way to install
 
-```sh-session
-$ npx nyxbi init [-t,--template=<template>] [<dir>]
+```bash
+npx nyxbui@latest template
 ```
 
-**Example:** Clone `docux` to `my-app` directory:
+and choose the portfolio template
 
-```sh-session
-$ npx nyxbi init -t docux nyxb-app
-```
+# Getting Started Locally
 
-## Templates
+1. Clone this repository to your local machine:
 
-- [docux](https://github.com/nyxb/docux) - Write beautiful documentations with Nuxt and Markdown.
-- [vite-template-react](https://github.com/nyxb/vite-template-react) - A Vite + React + TS template
-- [starter-npm](https://github.com/nyxb/starter-npm) - A starter template for npm packages
-- [starter-vscode](https://github.com/nyxb/starter-vscode) - A starter template for VSCode extensions
+   ```bash
+   git clone https://github.com/dillionverma/portfolio
+   ```
 
-## License
+2. Move to the cloned directory
 
-[MIT](./LICENSE) - Made with 🧡
+   ```bash
+   cd portfolio
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   pnpm install
+   ```
+
+4. Start the local Server:
+
+   ```bash
+   pnpm dev
+   ```
+
+5. Open the [Config file](./src/data/resume.tsx) and make changes
+
+# License
+
+Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
