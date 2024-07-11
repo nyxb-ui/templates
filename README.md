@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Portfolio" src="https://cdn.nyxbui.design/portfolio.mp4" width="90%">
+<video alt="Portfolio" src="https://cdn.nyxbui.design/portfolio.mp4" width="90%">
 </div>
 
 # Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnyxb-ui%2Ftemplates.git&branch=portfolio)
