@@ -1,0 +1,6 @@
+{
+   "name": "starter-vscode",
+   "defaultDir": "src",
+   "url": "https://nyxb.nexus",
+   "tar": "https://codeload.github.com/nyxb/starter-vscode/tar.gz/refs/heads/main"
+ }
