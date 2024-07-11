@@ -1,6 +1,6 @@
 {
    "name": "portfolio",
-   "defaultDir": "src",
+   "defaultDir": "",
    "url": "https://nyxbui.design",
-   "tar": "https://codeload.github.com/nyxb/starter-npm/tar.gz/refs/heads/main"
+   "tar": "https://codeload.github.com/nyxb/portfolio/tar.gz/refs/heads/main"
  }
