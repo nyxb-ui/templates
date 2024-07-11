@@ -1,32 +1,28 @@
-# 🪄 Nyxb Starter Templates
+# 🪄 Nyxb UI Starter Templates
 
-Quickly get started with a minimal Nyxb starter template!
+Quickly get started with a Nyxb UI starter template!
 
 ## Quick start
 
-Head over to [nyxb.space](https://nyxb.space) to get started quickly.
+Head over to [Nyxb UI](https://nyxbui.design/docs/templates) to get started quickly.
 
 ## Usage
 
-You can use `nyxbi` CLI to clone latest template to an empty directory:
+You can use `nyxbui` CLI to clone latest template to an empty directory:
 
 ```sh-session
-$ npx nyxbi init [-t,--template=<template>] [<dir>]
+$ npx nyxbui@latest template
 ```
 
-**Example:** Clone `docux` to `my-app` directory:
+and choose the template you want to use.
 
-```sh-session
-$ npx nyxbi init -t docux nyxb-app
-```
+## Contribution
 
-## Templates
+Each template is maintained in a branch (see [all branches](https://github.com/nuxt/starter/branches)).
+For improvements, please open a Pull Request to each individual branch.
 
-- [docux](https://github.com/nyxb/docux) - Write beautiful documentations with Nuxt and Markdown.
-- [vite-template-react](https://github.com/nyxb/vite-template-react) - A Vite + React + TS template
-- [starter-npm](https://github.com/nyxb/starter-npm) - A starter template for npm packages
-- [starter-vscode](https://github.com/nyxb/starter-vscode) - A starter template for VSCode extensions
+**Note:** Please avoid commiting lock-files such as `yarn.lock` and `package-lock.json` to template branches!
 
 ## License
 
-[MIT](./LICENSE) - Made with 🧡
+[MIT](./LICENSE) - Made with 💜
